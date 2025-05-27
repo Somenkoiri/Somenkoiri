@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Somen Koiri</h1>
 <h3 align="center">A Passionate Java Backend Developer And React JS Frontend Developer From Ranchi(Jharkhand )</h3>
 
-- 🔭 I’m currently working on [Developer Code Work](https://developercodework.netlify.app/)
+- 👨🏻‍💻   I’m currently working on [Developer Code Work](https://developercodework.netlify.app/)
 
-- 👯 Project [Car Booking Website](https://github.com/Somenkoiri/Car-Booking-Website)
+- 🚕 Project [Car Booking Website](https://github.com/Somenkoiri/Car-Booking-Website)
 
-- 🤝 Project [Main Care HMS](https://github.com/Somenkoiri/MainCare_HMS)
+- 🏥 Project [Main Care HMS](https://github.com/Somenkoiri/MainCare_HMS)
 
 - 📫 How to reach me **somenkoiri0701@gmail.com**
 
