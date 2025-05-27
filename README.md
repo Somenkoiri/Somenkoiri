@@ -5,7 +5,9 @@
 
 - 👯 Project [Car Booking Website](https://github.com/Somenkoiri/Car-Booking-Website)
 
-- 🤝 Project **Main Care HMS**
+- 🤝 Project [Main Care HMS](https://github.com/Somenkoiri/MainCare_HMS)
+
+- 📫 How to reach me **somenkoiri0701@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
