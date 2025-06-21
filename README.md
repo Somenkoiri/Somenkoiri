@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@somenkoiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@somenkoiri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sk-koiri-55bb4632b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sk-koiri-55bb4632b/" height="30" width="40" /></a>
+<a href="sk-koiri-55bb4632b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sk-koiri-55bb4632b/" height="30" width="40" /></a>
 <a href="https://instagram.com/s_call_me_somen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_call_me_somen" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://youtube.com/@somenoyt?si=v5ctmixi-inmle7b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@somenoyt?si=v5ctmixi-inmle7b" height="30" width="40" /></a>
 </p>
